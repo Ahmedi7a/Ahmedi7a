@@ -17,12 +17,15 @@ the success of forward-thinking projects while continuously advancing skills in 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## ✒️ Recent Projects
+## 🚀 My Projects  
 
-- [Fursati: Empowering Job Seekers & Connecting Opportunities](https://github.com/Ahmedi7a/Fursati-front-end)  
-- [BahrainExplore](https://github.com/Ahmedi7a/BahrainExplore)  
-- [Card Memory Game](https://github.com/Ahmedi7a/card-memory-game-project)  
+<div align="center">
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmedi7a&repo=Fursati-front-end&theme=dark)](https://github.com/Ahmedi7a/Fursati-front-end)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmedi7a&repo=BahrainExplore&theme=dark)](https://github.com/Ahmedi7a/BahrainExplore)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ahmedi7a&repo=card-memory-game-project&theme=dark)](https://github.com/Ahmedi7a/card-memory-game-project)  
+
+</div>
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Ahmedi7a&theme=tokyonight&hide_border=false)<br/>
