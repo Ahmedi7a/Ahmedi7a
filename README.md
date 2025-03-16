@@ -3,11 +3,7 @@
 </div>
 
 ## 💫 About Me:
-A fast learner and dedicated software engineer with a strong foundation in programming, skilled in developing responsive  
-websites, dynamic applications, and cross-platform mobile apps using modern technologies. Proficient in HTML, CSS,  
-JavaScript, PHP, Node.js, Express.js, and React.js, with a proven ability to solve problems and collaborate effectively  
-within teams to deliver impactful solutions. Aspires to leverage technical expertise to drive innovation and contribute to  
-the success of forward-thinking projects while continuously advancing skills in software development.  
+A fast learner and dedicated software engineer with a strong foundation in programming, skilled in developing responsive websites, dynamic applications, and cross-platform mobile apps using modern technologies. Proficient in HTML, CSS, JavaScript, React.js, Node.js, Express.js, and Django, with a proven ability to solve problems, and collaborate effectively within teams to deliver impactful solutions. Aspires to leverage technical expertise to drive innovation and contribute to the success of forward-thinking projects while continuously advancing skills in software development.
  
 
 ## 🌐 Socials:
