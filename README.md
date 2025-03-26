@@ -17,6 +17,9 @@ A fast learner and dedicated software engineer with a strong foundation in progr
 
 ## ✒️ Recent Projects  
 
+📌 **[rentXpress: Car Rental Platform](https://github.com/Ahmedi7a/Yalla-Na-jir-frontend)**  
+A full-featured MERN stack platform that connects users with cars for rent, empowers dealers to list their vehicles, and gives admins control over the system. With real-time updates, role-based access, and cloud-powered image uploads, CarHaven brings simplicity and power to car renting.
+
 📌 **[Fursati: Empowering Job Seekers & Connecting Opportunities](https://github.com/Ahmedi7a/Fursati-front-end)**  
 A platform to help job seekers showcase their skills and connect with potential employers.  
 
